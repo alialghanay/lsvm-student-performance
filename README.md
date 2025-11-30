@@ -18,8 +18,8 @@
 - Create a virtual environment and install dependencies (macOS zsh):
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate
+python -m venv lib
+source lib/bin/activate
 pip install -r requirements.txt
 ```
 
