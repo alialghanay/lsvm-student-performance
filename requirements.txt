@@ -41,5 +41,5 @@ types-requests==2.32.4.20250913
 types-tqdm==4.67.0.20250809
 typing_extensions==4.15.0
 tzdata==2025.2
-urllib3==2.5.0
+urllib3==2.6.0
 webencodings==0.5.1
