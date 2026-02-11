@@ -20,7 +20,7 @@ opendatasets==0.1.22
 packaging==25.0
 pandas==2.3.3
 pathspec==0.12.1
-pillow==12.0.0
+pillow==12.1.1
 platformdirs==4.5.0
 protobuf==6.33.1
 pyparsing==3.2.5
